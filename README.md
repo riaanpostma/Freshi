@@ -1,1 +1,3 @@
-# Jambo
+# Person: "Jambo?"
+# Someone else: "Freshi!"
+# both smile....
